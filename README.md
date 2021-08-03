@@ -1,6 +1,6 @@
 # KHC-CTF3
 
-## DOwnload and decode image from below links.
+## Download and decode image from below links.
 #### Multiple links are provided if one fails
 
 ### link1
