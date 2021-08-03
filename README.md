@@ -16,7 +16,7 @@ https://easyupload.io/yz7py6
 https://drive.google.com/file/d/1bdurLVAt4XiQdYDWSrmkN3yltxdKj9Ql/view?usp=sharing
 ```
 ## ALL links above given are same if any link stops working use another
-### HINT 1: ## Take a look how png works 
+### HINT 1:Take a look how png works 
 ### 👇 Hint 2 given below 👇
 ```
 YWRhIG1vbmVlIEhFWCBjaGV5eWFub28u
