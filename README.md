@@ -15,4 +15,7 @@ https://easyupload.io/yz7py6
 ```
 https://drive.google.com/file/d/1bdurLVAt4XiQdYDWSrmkN3yltxdKj9Ql/view?usp=sharing
 ```
-### HINT: ## hex it 
+### HINT 1: ##Take a look how png works 
+### Hint 2:```
+YWRhIG1vbmVlIGhleCBjaGV5eXV2YW5vby4=
+```
