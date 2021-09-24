@@ -1,3 +1,5 @@
+# already been solved 
+# some of the resources may be already removed
 # KHC-CTF3
 
 ## Download and decode image from below link.
